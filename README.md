@@ -8,6 +8,7 @@ Bank Account:
 ![BankAccount](https://user-images.githubusercontent.com/107023167/236385394-b62972be-572f-44a8-b361-30d7a0d5a339.PNG)
 
 Customer:
+
 ![Customer](https://user-images.githubusercontent.com/107023167/236385508-adf98744-bacf-4be2-bb93-ed40d38caf50.PNG)
 
 CurrentAccount:
