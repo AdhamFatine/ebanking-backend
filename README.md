@@ -18,7 +18,8 @@ Customer:
 
 CurrentAccount:
 
-![CustomerTable](https://user-images.githubusercontent.com/107023167/236385546-f9e41d79-c6f6-46b8-b107-b00899a2179a.PNG)
+![CurrentAccount](https://user-images.githubusercontent.com/107023167/236386995-b4ca9c5d-f530-4ae4-8370-0dd8ac619627.PNG)
+
 
 
 SavingAccount:
